@@ -12,7 +12,7 @@ Questions and Results:
 
 
 
-3) What is a better predictor of admission to HSPHS? Raw number of applications or
+2) What is a better predictor of admission to HSPHS? Raw number of applications or
 application *rate*?
 
 
@@ -22,7 +22,7 @@ application *rate*?
 
 
 
-5) Is there a relationship between how students perceive their school (as reported in columns 
+4) Is there a relationship between how students perceive their school (as reported in columns 
 L-Q) and how the school performs on objective measures of achievement (as noted in
 columns V-X).
 
@@ -52,7 +52,7 @@ Claim: The correlations do not support the claim that availability of material r
 <img width="624" alt="Screen Shot 2022-04-19 at 1 20 26 PM" src="https://user-images.githubusercontent.com/97006483/164060009-d603fdd2-6e64-4c52-bbe0-4991334216ee.png">
 
 
-9) Build a model of your choice – clustering, classification or prediction – that includes all
+8) Build a model of your choice – clustering, classification or prediction – that includes all
 factors – as to what school characteristics are most important in terms of a) sending
 students to HSPHS, b) achieving high scores on objective measures of achievement?
 
