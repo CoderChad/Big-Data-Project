@@ -3,28 +3,28 @@ Intro: This is an individual project I completed for a Data Science class. With 
 
 
 
-Questions and Results:
+# Questions and Results:
 
-1) What is the correlation between the number of applications and admissions to HSPHS?
+# 1) What is the correlation between the number of applications and admissions to HSPHS?
 
 <img width="676" alt="Screen Shot 2022-04-19 at 12 27 40 AM" src="https://user-images.githubusercontent.com/97006483/163920129-20a85dd7-d222-4ffa-a4c2-e345fd0010c2.png">
 
 
 
 
-2) What is a better predictor of admission to HSPHS? Raw number of applications or
-application *rate*?
+# 2) What is a better predictor of admission to HSPHS? Raw number of applications or
+# application *rate*?
 
 
-3) Which school has the best *per student* odds of sending someone to HSPHS?
+# 3) Which school has the best *per student* odds of sending someone to HSPHS?
 
 <img width="886" alt="Screen Shot 2022-04-19 at 1 14 53 PM" src="https://user-images.githubusercontent.com/97006483/164059157-c2e2499d-6190-4a2a-8d78-9fd6f99079e1.png">
 
 
 
-4) Is there a relationship between how students perceive their school (as reported in columns 
-L-Q) and how the school performs on objective measures of achievement (as noted in
-columns V-X).
+# 4) Is there a relationship between how students perceive their school (as reported in columns 
+# L-Q) and how the school performs on objective measures of achievement (as noted in
+# columns V-X).
 
 <img width="799" alt="Screen Shot 2022-04-19 at 1 15 50 PM" src="https://user-images.githubusercontent.com/97006483/164059290-2d86af67-1b51-4b95-88a3-aa79cde8e66f.png">
 <img width="808" alt="Screen Shot 2022-04-19 at 1 16 02 PM" src="https://user-images.githubusercontent.com/97006483/164059316-f87bf03b-6213-4ab0-92fd-b293bae41d91.png">
@@ -32,29 +32,33 @@ columns V-X).
 <img width="639" alt="Screen Shot 2022-04-19 at 1 16 13 PM" src="https://user-images.githubusercontent.com/97006483/164059345-71ca8ff5-f347-4619-8a8f-33ee4a4368ca.png">
 
 
-5) Test a hypothesis of your choice as to which kind of school (e.g. small schools vs. large
-schools or charter schools vs. not (or any other classification, such as rich vs. poor school)) performs differently than another kind either on some dependent measure, e.g. objective
-measures of achievement or admission to HSPHS (pick one).
+# 5) Test a hypothesis of your choice as to which kind of school (e.g. small schools vs. large
+# schools or charter schools vs. not (or any other classification, such as rich vs. poor school)) performs differently than another kind either on some dependent measure, e.g. objective
+# measures of achievement or admission to HSPHS (pick one).
 
-My Hypothesis: The mean scores for math is higher for charter schools than it is for non-charter schools. 
+# My Hypothesis: 
+The mean scores for math is higher for charter schools than it is for non-charter schools. 
+
 <img width="792" alt="Screen Shot 2022-04-19 at 1 17 49 PM" src="https://user-images.githubusercontent.com/97006483/164059616-fe3f7549-0078-436e-849c-d7b166c35168.png">
 
 
-6) Is there any evidence that the availability of material resources (e.g. per student spending
-or class size) impacts objective measures of achievement or admission to HSPHS?
+# 6) Is there any evidence that the availability of material resources (e.g. per student spending
+# or class size) impacts objective measures of achievement or admission to HSPHS?
 
-Claim: The correlations do not support the claim that availability of material resoures have any bearing on objective measures of achievement or admission to HSPHS. In fact, the correlations suggest the opposite. 
+# Claim: The correlations do not support the claim that availability of material resoures have any bearing on objective measures of achievement or admission to HSPHS. In fact, the correlations suggest the opposite. 
 
 <img width="519" alt="Screen Shot 2022-04-19 at 1 18 38 PM" src="https://user-images.githubusercontent.com/97006483/164059737-bcf89b43-3638-4f05-833a-aab3290a6292.png">
 
-7) What proportion of schools accounts for 90% of all students accepted to HSPHS?
+# Finding: We reject the null hypothesis that the mean for math scores is equal for charter schools v.s. Noncharter schools. The two schools perform differently.
+
+# 7) What proportion of schools accounts for 90% of all students accepted to HSPHS?
 
 <img width="624" alt="Screen Shot 2022-04-19 at 1 20 26 PM" src="https://user-images.githubusercontent.com/97006483/164060009-d603fdd2-6e64-4c52-bbe0-4991334216ee.png">
 
 
-8) Build a model of your choice – clustering, classification or prediction – that includes all
-factors – as to what school characteristics are most important in terms of a) sending
-students to HSPHS, b) achieving high scores on objective measures of achievement?
+# 8) Build a model of your choice – clustering, classification or prediction – that includes all
+# factors – as to what school characteristics are most important in terms of a) sending
+# students to HSPHS, b) achieving high scores on objective measures of achievement?
 
 Model: 
 
@@ -73,20 +77,20 @@ represented most of the variation.
 
 
 
-9) Write an overall summary of your findings – what school characteristics seem to be most
-relevant in determining acceptance of their students to HSPHS?
+# 9) Write an overall summary of your findings – what school characteristics seem to be most
+# relevant in determining acceptance of their students to HSPHS?
 
-Findings:
+# Findings:
 
 The schools that performed the best in terms of sending their students to HSPHS
 embodied many of the same features. Student achievement, as a form of objective student success, seemed to have the greatest bearing on acceptance to the school. From this variable alone, we can conclude that schools that have higher test scores have better equipped, prepared, and trained students coming from learning and communal environments that are more conducive to learning and general student success.
 
 
 
-10) Imagine that you are working for the New York City Department of Education as a data
-scientist (like one of my former students). What actionable recommendations would you
-make on how to improve schools so that they a) send more students to HSPHS and b)
-improve objective measures or achievement. 
+# 10) Imagine that you are working for the New York City Department of Education as a data
+# scientist (like one of my former students). What actionable recommendations would you
+# make on how to improve schools so that they a) send more students to HSPHS and b)
+# improve objective measures or achievement. 
 
 
 
