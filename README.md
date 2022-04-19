@@ -92,4 +92,6 @@ improve objective measures or achievement.
 
 
 a. The most important thing to do would be to create more challenging courses for the students. Unfortunately, when dealing with low-income schools the students may not be as prepared or on the same level as students from more affluent backgrounds. The best course of action would be to provide students with smaller more upclose instruction that allows them to discover their strengths and push them to the max. This would boost student achievement and confidence, later having an affect on their scores.
+
+
 b. They could train the teachers to be more collaborative, as this mattered for the test score performance. Paired with a supportive and collaborative classroom learning environment, the students would receive more hands on learning with the skills they need to perform well. It would also serve to address any weaknesses they may have with the material.
