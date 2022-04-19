@@ -1,7 +1,5 @@
 # Big Data Project
-Intro: This is an individual project I completed for a Data Science class. We were tasked with extrapoloting insights and attributes through our analysis of New York City Middle School data provided by the New York City Department of Education. 
-
-We were interested in determing whether certain characteristics of a middle school (e.g. class size, per student spending) could predict a student's likelihood of admission into one of eight highly selective New York City High Schools. 
+Intro: This is an individual project I completed for a Data Science class. With New York City Middle School data provided by the New York City Department of Education, we were tasked with extrapoloting insights and attributes through as part of our analysis. Our objective of interest was determining the most important attributes middle schools should have for individual student admission into one of eight highly selective high schools. 
 
 
 
