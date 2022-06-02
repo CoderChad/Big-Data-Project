@@ -39,8 +39,7 @@ There is a very weak relationship. I first calculated the principal components f
 
 # 5) Test a hypothesis of your choice as to which kind of school (e.g. small schools vs. large schools or charter schools vs. not (or any other classification, such as rich vs. poor school)) performs differently than another kind either on some dependent measure, e.g. objective measures of achievement or admission to HSPHS (pick one).
 
-# My Hypothesis: 
-The mean scores for math is higher for charter schools than it is for non-charter schools. 
+# My Hypothesis: The mean scores for math is higher for charter schools than it is for non-charter schools. 
 
 <img width="792" alt="Screen Shot 2022-04-19 at 1 17 49 PM" src="https://user-images.githubusercontent.com/97006483/164059616-fe3f7549-0078-436e-849c-d7b166c35168.png">
 
