@@ -12,8 +12,7 @@ Intro: This is an individual project I completed for a Data Science class. With 
 
 
 
-# 2) What is a better predictor of admission to HSPHS? Raw number of applications or
-# application *rate*?
+# 2) What is a better predictor of admission to HSPHS? Raw number of applications or application rate?
 
 Here I created two linear models and then used sk learn to calculate the regression. The application number had a greater correlation. Intuitively speaking, this makes sense: if you have a high rate of applications, from a small, cruddy school, then you are if a worse boat than a school that is a large, high-end school that sends out a high volume of applications. This is because the application number is a measure of count while the rate is more like an average.
 
