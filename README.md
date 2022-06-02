@@ -26,9 +26,10 @@ Here I created two linear models and then used sk learn to calculate the regress
 
 
 
-# 4) Is there a relationship between how students perceive their school (as reported in columns 
-# L-Q) and how the school performs on objective measures of achievement (as noted in
-# columns V-X).
+# 4) Is there a relationship between how students perceive their school (as reported in columns L-Q) and how the school performs on objective measures of achievement (as noted in columns V-X).
+
+There is a very weak relationship. I first calculated the principal components for (L-Q) and then (V-X). PC1 (of L-Q) correlates well with each of (L-Q) individually. So I decided to use PC1 to represent this range of variables. I then used PC1 to see how well it correlated to each of W-X and found that it was very weak across the board.
+
 
 <img width="799" alt="Screen Shot 2022-04-19 at 1 15 50 PM" src="https://user-images.githubusercontent.com/97006483/164059290-2d86af67-1b51-4b95-88a3-aa79cde8e66f.png">
 <img width="808" alt="Screen Shot 2022-04-19 at 1 16 02 PM" src="https://user-images.githubusercontent.com/97006483/164059316-f87bf03b-6213-4ab0-92fd-b293bae41d91.png">
