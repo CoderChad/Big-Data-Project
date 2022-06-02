@@ -50,7 +50,7 @@ There is a very weak relationship. I first calculated the principal components f
 
 <img width="519" alt="Screen Shot 2022-04-19 at 1 18 38 PM" src="https://user-images.githubusercontent.com/97006483/164059737-bcf89b43-3638-4f05-833a-aab3290a6292.png">
 
-# Findings: We reject the null hypothesis that the mean for math scores is equal for charter schools v.s. Noncharter schools. The two schools perform differently.
+# Findings: We reject the null hypothesis that the mean math scores are equal for Charter schools v.s. Noncharter schools. The two schools perform differently, with charter schools performing slightly better than noncharter (55% and 38%, respectively).
 
 # 7) What proportion of schools accounts for 90% of all students accepted to HSPHS?
 
