@@ -16,7 +16,8 @@ Intro: This is an individual project I completed for a Data Science class. With 
 
 Here I created two linear models and then used sk learn to calculate the regression. The application number had a greater correlation. Intuitively speaking, this makes sense: if you have a high rate of applications, from a small, cruddy school, then you are if a worse boat than a school that is a large, high-end school that sends out a high volume of applications. This is because the application number is a measure of count while the rate is more like an average.
 
-![Screen Shot 2022-06-02 at 2 29 16 AM](https://user-images.githubusercontent.com/97006483/171577200-0b3ab2b3-2b87-4802-b11e-67c19e4c6938.png)
+
+![Screen Shot 2022-06-02 at 2 30 36 AM](https://user-images.githubusercontent.com/97006483/171577447-91c1a437-417e-4f3e-ba52-878a007ebe23.png)
 
 
 # 3) Which school has the best *per student* odds of sending someone to HSPHS?
